@@ -1,2 +1,2 @@
-# AAyCD
-En este repositorio se subirá todo relacionado al curso de ciencia de datos
+# Analisis de datos univariado y bivariado
+En este repositorio se subirá el analisis univariado y bivariado de los datos "jugadores de futbol"
